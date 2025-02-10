@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.deep_links_go_routr",
+      "package_name": "com.example.deep_links_go_router",
       "sha256_cert_fingerprints":
       ["93:A7:24:5F:70:D1:75:D1:E0:98:0C:FE:1F:F7:7F:22:56:83:4D:F2:00:9E:7C:3C:06:A8:D9:0B:0B:C0:6F:51"]
     }
